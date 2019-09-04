@@ -1,0 +1,12 @@
+.custom-file-input ~ .custom-file-label::after {
+    content: "Carregar";
+}
+
+.lead {
+    margin-top: 25px;   
+}
+
+.alert_class {
+    padding-bottom: 15px;
+    color: #ff4733!important;
+}

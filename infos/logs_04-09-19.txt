@@ -1,0 +1,7 @@
+[03:37:43]> ARQUIVO CONVERTIDO: arquivo example2.xls convertido paraexample2.csv 
+[03:37:43]> NOVO CADASTRO: [email]: amandalinsdc@gmail.com [arquivo]: example2.xls foi cadastrado com sucesso! 
+[03:37:43]> EMAIL ENVIADO: novo email enviado para: amandalinsdc@gmail.com 
+[03:38:04]> ARQUIVO CONVERTIDO: arquivo pedraspreciosas.xlsx convertido parapedraspreciosas.csv 
+[03:38:04]> NOVO CADASTRO: [email]: cd@sd.com [arquivo]: pedraspreciosas.xlsx foi cadastrado com sucesso! 
+[03:38:04]> EMAIL ENVIADO: novo email enviado para: cd@sd.com 
+[03:38:56]> ALTERAR CADASTRO: cadastro de [id]: 6 foi alterado! 
