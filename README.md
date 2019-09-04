@@ -6,6 +6,7 @@
 
 **Informações Importantes** 
 
-- `infos/definicoes_sql.sql` - Esquema da tabela do banco chamada **customers**
-- Foram utilizadas as bibliotecas **PhpSpreadsheet** e **phpMailer** 
+- `infos/definicoes_sql.sql` - Esquema da tabela do banco chamada **customers**;
+- As definições de log podem ser encontraram também na pasta infos;
+- Foram utilizadas as bibliotecas **PhpSpreadsheet** e **phpMailer**. 
 
