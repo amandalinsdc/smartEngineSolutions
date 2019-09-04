@@ -1,7 +1,7 @@
 # smartEngineSolutions
 
 - Projeto desenvolvido em PHP e Mysql. 
-- Descrição: o usuário deve entrar com um email e o arquivo excel, nos formatos .xls, .xlsx, .xlt. Um arquivo convertido (.csv) será enviado para o email inserido e um download automático iniciará com o arquivo, também, convertido.
+- Descrição: o usuário deve entrar com um email e o arquivo excel, nos formatos .xls, .xlsx, .xlt. O sistema converte o arquivo para .csv e o envia para o email inserido. Um download automático iniciará com o arquivo, também, convertido.
 
 
 **Informações Importantes** 
